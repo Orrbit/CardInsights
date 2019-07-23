@@ -1,0 +1,1 @@
+This project will be used to investigate(and play) some of my favorite card games. 
